@@ -1,0 +1,347 @@
+Foodie. - Supper delicious Burger in town!
+
+
+
+#---------- HEADER ----------#
+
+Foodie.
+
+Home
+About Us
+Shop
+Blog
+Contact Us
+
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
+
+Reservation
+
+aria-label = Toggle Menu
+
+
+
+#---------- SEARCH BOX ----------#
+
+aria-label = Cancel search
+<ion-icon name="close-outline"></ion-icon>
+
+aria-label = Search here
+placeholder = Type keywords here...
+
+aria-label = Submit search
+<ion-icon name="search-outline"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Eat Sleep And
+
+Supper delicious Burger in town!
+
+Food is any substance consumed to
+provide nutritional support for an organism.
+Book A Table
+
+alt = Burger
+
+
+
+#---------- PROMO ----------#
+
+Maxican Pizza
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+Soft Drinks
+
+French Fry
+
+Burger Kingo
+
+Chicken Masala
+
+
+
+#---------- ABOUT ----------#
+
+alt = Burger with Drinks
+
+alt = get up to 50% off now
+
+Foodie, Burgers, and Best Pizzas in Town!
+
+The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+
+<ion-icon name="checkmark-outline"></ion-icon>
+Delicious & Healthy Foods
+
+Spacific Family And Kids Zone
+
+Music & Other Facilities
+
+Fastest Food Home Delivery
+
+Order Now
+
+
+
+#---------- FOOD MENU ----------#
+
+Popular Dishes
+
+Our Delicious Foods
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+All
+Pizza
+Burger
+Drinks
+Sandwich
+
+alt = Fried Chicken Unlimited
+
+-15%
+
+Order Now
+
+Chicken
+
+<ion-icon name="star"></ion-icon>
+
+Fried Chicken Unlimited
+
+Price:
+$49.00
+$69.00
+
+
+alt = Burger King Whopper
+
+-10%
+
+Noddles 
+ 
+Burger King Whopper
+
+$29.00 
+$39.00
+
+alt = White Castle Pizzas
+
+-25%
+Pizzas 
+
+White Castle Pizzas
+
+$49.00 
+$69.00
+
+alt = Bell Burrito Supreme
+
+-20%
+Burrito 
+ 
+Bell Burrito Supreme
+
+$59.00
+$69.00
+
+alt = Kung Pao Chicken BBQ
+
+-5%
+Nuggets 
+
+Kung Pao Chicken BBQ
+
+$49.00
+$69.00
+
+alt = Wendy's Chicken
+
+-15%
+Chicken 
+
+Wendy's Chicken
+
+$49.00 
+$69.00
+
+
+
+#---------- CTA ----------#
+
+The Foodie Have Excellent Of Quality Burgers!
+
+The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+
+Order Now
+
+alt = Burger
+
+alt = get up to 50% off now
+
+
+
+#---------- DELIVERY ----------#
+
+A Moments Of Delivered On Right Time & Place
+
+The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
+
+Order Now
+
+alt = clouds
+
+alt = delivery boy
+
+
+
+#---------- TESTIMONIALS ----------#
+
+Testimonials
+
+Our Customers Reviews
+
+Food is any substance consumed to provide nutritional
+support for an organism.
+
+alt = Robert William
+
+Robert William
+
+CEO Kingfisher
+
+"I would be lost without restaurant. I would like to personally thank you for your outstanding product."
+
+<ion-icon name="star"></ion-icon>
+
+Thomas Josef
+
+CEO Getforce
+
+Charles Richard
+
+CEO Angela
+
+
+
+#---------- BANNER ----------#
+
+alt = Discount For Delicious Tasty Burgers!
+
+50% Off Now!
+
+Discount For Delicious Tasty Burgers!
+
+Sale off 50% only this week
+
+Order Now
+
+Delicious Pizza
+
+50% off Now
+
+American Burgers
+
+50% off Now
+
+Tasty Buzzed Pizza
+
+Sale off 50% only this week
+
+
+
+#---------- BLOG ----------#
+
+Latest Blog Posts
+
+This Is All About Foods
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+alt = What Do You Think About Cheese Pizza Recipes?
+
+Pizza
+
+<ion-icon name="calendar-outline"></ion-icon>
+Jan 01 2022
+
+<ion-icon name="person-outline"></ion-icon>
+Jonathan Smith
+
+What Do You Think About Cheese Pizza Recipes?
+
+Financial experts support or help you to to find out which way you can raise your funds more...
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Making Chicken Strips With New Delicious Ingridents.
+
+Burger
+
+alt = Innovative Hot Chessyraw Pasta Make Creator Fact.
+
+Chicken
+
+
+
+#---------- FOOTER ----------#
+
+Foodie.
+
+Financial experts support or help you to to find out which way you can raise your funds more.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Contact Info
+
++1 (062) 109-9222
+
+Info@YourGmail24.com
+
+153 Williamson Plaza, Maggieberg, MT 09514
+
+Opening Hours 
+
+Monday-Friday: 08:00-22:00
+
+Tuesday 4PM: Till Mid Night
+
+Saturday: 10:00-16:00
+
+Book a Table
+
+placeholder = Your Name
+
+placeholder = Email
+
+aria-label = Total person
+
+Person
+2 Person
+3 Person
+4 Person
+5 Person
+
+aria-label = Reservation date
+
+placeholder = Message
+
+Book a Table
+
+&copy; 2022 codewithsadee All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to top
+
+<ion-icon name="chevron-up"></ion-icon>
