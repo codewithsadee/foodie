@@ -1138,6 +1138,8 @@ body.active { overflow: hidden; }
   #FOOTER
 \*-----------------------------------*/
 
+.footer { overflow: hidden; }
+
 .footer-top {
   position: relative;
   padding-block: 120px;
